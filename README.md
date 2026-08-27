@@ -44,8 +44,10 @@ I selected this artefact because, in the case of open-source software, there is 
 
 ## References
 
-Arts Law Centre of Australia 2025, Artificial Intelligence (AI) and Copyright.
+Arts Law Centre of Australia 2025, *Artificial Intelligence (AI) and Copyright*, Arts Law Centre of Australia, viewed 28 August 2026, <https://www.artslaw.com.au>.
 
-World Intellectual Property Organization 2025, Can the Monkey Selfie Case Teach Us Anything About Copyright Law?
+Galea, G 2026, *Week 7 Lecture: Intellectual Property*, COIT11223: ICT Ethics and Governance in Society, CQUniversity, viewed 28 August 2026, <https://moodle.cqu.edu.au>.
 
-Galea, G 2026, Week 7 Lecture: Intellectual Property, COIT11223 ICT Ethics and Governance in Society, CQUniversity.
+World Intellectual Property Organization (WIPO) 2025, *Artificial Intelligence and Intellectual Property*, WIPO, viewed 28 August 2026, <https://www.wipo.int/en/web/frontier-technologies/artificial-intelligence/index>.
+
+World Intellectual Property Organization (WIPO) 2025, *Can the Monkey Selfie Case Teach Us Anything About Copyright Law?*, WIPO Magazine, viewed 28 August 2026, <https://www.wipo.int>.
