@@ -6,41 +6,41 @@ A collection of artefacts that demonstrate what I have learnt about Intellectual
 
 ### Summary of the artefact
 
-This artefact is a reading about copyright issues related to artificial intelligence. It explains how AI tools create uncertainty around ownership because current copyright systems were mainly designed for human creators. The article discusses questions such as whether AI-generated images, text, or software should receive copyright protection and who should be considered the creator.
+This artefact is a reading of copyright issues arising from the use of AI. It elaborates on how AI can generate uncertainty about who owns the copyright, due to existing copyright law primarily catering to human creatives. It explores the key issues of whether a work or creation created by AI should be granted copyright and who is the creator of the image, text or fact that is created by the AI.
 
 ### Justification on why I chose the artefact
 
-I selected this artefact because AI-generated content is becoming common in ICT fields, and it creates new challenges for intellectual property laws. The Week 7 workshop discussed that AI tools currently do not have legal status and cannot own copyright. This artefact helped me understand that ICT professionals need to consider ownership, fairness, and responsible use of technology when developing or using AI systems.
+I chose this artefact as the issue of AI made ICTs more prevalent with content and brings up new challenges for IP rights. During the week 7 workshop, the limitations of AI tools without having legal standing and establishing copyright were discussed. This artefact facilitated me to realise the importance for ICT professionals to be mindful of ownership, fairness and responsible use of technology in the context of the development and use of AI systems.
 
 ## Artefact 2: The Monkey Selfie Copyright Dispute
 
 ### Summary of the artefact
 
-This artefact is a case study about the "monkey selfie" copyright dispute. A monkey took photographs using a camera set up by a wildlife photographer. The case raised questions about whether a non-human creator could own copyright. The final discussion focused on the requirement of human authorship in copyright law.
+This artefact is a case study concerning the "monkey selfie" Copyright case. A Monkey also took the photos with a camera that was mounted by a Wildlife Photographer. The question that arose in the case was the ability for one to copyright works by non-human creators. The final discussion was the need of human creativity in copyright protection.
 
 ### Justification on why I chose the artefact
 
-I chose this artefact because it shows how copyright law can become complicated when technology and unusual forms of creation are involved. The case connects with ICT because similar questions are now appearing with AI-generated content. It helped me understand that intellectual property rules must consider new technologies while still protecting the rights and responsibilities of human creators.
+I selected this artefact because of the complexity of copyright when relating to technology/creation of unusual thing. The case is at the intersection of with ICT, in that you are seeing similar questions with AI-generated content. It made me realise that there is a need to build intellectual property rules that take into account new technologies but also consider the rights and responsibilities of the human creators.
 
 ## Artefact 3: Intellectual Property Protection and Software Development
 
 ### Summary of the artefact
 
-This artefact focuses on different forms of intellectual property protection, including copyright, patents, trademarks, designs, and trade secrets. In ICT, software programs, databases, and digital content can be protected through intellectual property laws. The purpose of protection is to encourage innovation while balancing public access to knowledge.
+This artefact centres on various types of IP rights that are conferred such as copyright, patents, trademarks, designs and trade secrets. Protection of intellectual property laws can be afforded in the case of software programs, database and digital content in ICT. Protection is meant for promoting innovation, and ensuring access to knowledge for public.
 
 ### Justification on why I chose the artefact
 
-I selected this artefact because software development is strongly connected with intellectual property. As an ICT professional, understanding how code, programs, and digital products are protected is important. This topic showed me that developers must respect ownership rights and avoid copying or using others' work without permission.
+I chose this artefact because software development has a lot to do with IP. It is important for an ICT professional to have an appreciation of how code, programs and code products are protected. Developers have to be aware of ownership rights and make sure they don't copy work nor use other people's without permission as I have learned through this topic.
 
 ## Artefact 4: Intellectual Property Ethics in Open Source Software
 
 ### Summary of the artefact
 
-This artefact explores open-source software and how developers share software while still following licensing requirements. Open-source projects allow people to use and improve software, but users must follow licence conditions such as attribution and distribution rules.
+This artefact will be about open source software and the way in which software developers are able to share their software without discarding licensing requirements. Open-source works let users use and enhance a software; however, the users are required to abide by the licence terms which include attribution and distribution requirements.
 
 ### Justification on why I chose the artefact
 
-I chose this artefact because open-source software represents a balance between sharing knowledge and protecting intellectual property rights. Many ICT professionals use open-source tools in their work, so understanding licences and ethical responsibilities is important. This artefact connects with the Week 7 content because intellectual property protection does not only restrict access; it also creates responsible ways for people to collaborate.
+I selected this artefact because, in the case of open-source software, there is a balance being struck between sharing and respecting the intellectual property rights. An understanding of open-source software and the ethical issues associated with it, is significant as many ICT professionals work directly with open source software. This artefact has been used to tie in with the Week 7 material as IP protection is not just about limiting access, but also building the right means of collaboration.
 
 ## References
 
